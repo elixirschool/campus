@@ -4,13 +4,9 @@ Welcome to the Elixir School Campus, we're happy you decided to stop by!
 
 Elixir School is a not-for-profit organization aimed at providing educational resources and opportunities to the Elixir community.  To achieve this goal we maintain a number of initiatives and continuously seek to identify needs in the community and fulfill them.
 
-## Initiatives
+## Current initiatives
 
 + [Elixir School](https://github.com/elixirschool/elixirschool) — The original project from which our org takes it's name is a freely available open-source book translated to over 20 languages!  This is a major milestone for any tech book and it was made possible with the help of open-source contributors such as yourself!
-
-+ [Extracurricular](https://github.com/elixirschool/extracurricular) — A website and series of bots aimed at raising awareness of open-source contribution opportunities within the community.  Learn the material in our book and put it to work here.
-
-+ [Appendix](https://github.com/elixirschool/appendix) — Our blog reserved for organizational messaging, topics that fall outside of our current lesson plans, and deep dives into a particular problem or feature.
 
 ## Core Values
 
